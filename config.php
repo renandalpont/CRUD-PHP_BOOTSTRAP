@@ -13,7 +13,7 @@ if ( !defined('ABSPATH') )
 	
 /** caminho no server para o sistema **/
 if ( !defined('BASEURL') )
-	define('BASEURL', '/CRUD-PHP-BOOTSTRAP/');
+	define('BASEURL', '/GItHubX/CRUD-PHP_BOOTSTRAP/');
 	
 /** caminho do arquivo de banco de dados **/
 if ( !defined('DBAPI') )
